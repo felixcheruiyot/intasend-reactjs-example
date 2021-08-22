@@ -20,7 +20,7 @@
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
-    "intasend-inlinejs-sdk": "^3.0.2",
+    "intasend-inlinejs-sdk": "2.0.8",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
@@ -51,6 +51,7 @@
     ]
   },
   "devDependencies": {
-    "@babel/plugin-proposal-class-properties": "^7.14.5"
+    "@babel/plugin-proposal-class-properties": "^7.14.5",
+    "babel-plugin-transform-class-properties": "^6.24.1"
   }
 }
